@@ -4,7 +4,7 @@ Brigitte Sharon Alexander - 2602119190 | Class: L4AC | Course: Operating Systems
 
 # Multi-Threaded Number Producer and Customer Program
 
-This Python program demonstrates multi-threading and synchronization in a scenario where a producer thread generates random integers and inserts them into a bounded buffer, and two customer threads consume these numbers based on their parity (even or odd).
+This Python program demonstrates multi-threading and synchronization in a scenario where a producer thread generates random integers and inserts them into a bounded buffer, and two customer threads retrieves these numbers based on their parity (even or odd).
 
 ## Files:
 
