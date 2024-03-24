@@ -1,8 +1,6 @@
 # Multi-threaded Program in C
 
-Brigitte Sharon Alexander - 2602119190
-Class: L4AC
-Course: Operating Systems
+Brigitte Sharon Alexander - 2602119190 | Class: L4AC | Course: Operating Systems
 
 ## How to Run the Program
 
